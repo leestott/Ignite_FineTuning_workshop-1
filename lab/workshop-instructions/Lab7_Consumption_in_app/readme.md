@@ -71,12 +71,10 @@ You ONNX Path will be in the following format
 > For the Workshop Environment the we have provide copies of models in the `model`folder located on the desktop 
 
 ```
-    private static string modelPath = @"/Users/labuser/Desktop/models/phi-instruct/Phi-3.5-mini-instruct-onnx/cpu_and_mobile/cpu-int4-awq-block-128-acc-level-4";
-    private static string ftmodelPath = @"/Users/labuser/Desktop/models/phi/ft-ready/model";
-    private static string ftadapterPath = @"/Users/labuser/Desktop/models/phi/ft-ready/model/adapter_weights.onnx_adapter";
+    private static string modelPath = @"/home/azureuser/localfiles/Ignite_FineTuning_workshop/lab/workshop-instructions/Lab7_Consumption_in_app/Phi-3.5-mini-instruct-onnx/cpu_and_mobile/cpu-int4-awq-block-128-acc-level-4";
 
-    private static string oftmodelPath = @"/Users/labuser/Desktop/models/onnx-ao/model";
-    private static string oftadapterPath = @"/Users/labuser/Desktop/models/onnx-ao/model/adapter_weights.onnx_adapter";
+    private static string oftmodelPath = @"/home/azureuser/localfiles/Ignite_FineTuning_workshop/lab/workshop-instructions/Lab5-Optimize-Model/models/phi/onnx-ao/model;
+    private static string oftadapterPath = @"/home/azureuser/localfiles/Ignite_FineTuning_workshop/lab/workshop-instructions/Lab5-Optimize-Model/models/phi/onnx-ao/model/adapter_weights.onnx_adapter";
 ```
 The Azure Open AI Key can be found in deployments and select your deployed GPT-35 Fine Tuned Model +++https://ai.azure.com+++ open the playground select **view code** select curl and then **key authentication** to find the **Endpoint** and **API Key**
 
