@@ -49,8 +49,8 @@ You'll connect to the Azure AI compute using the remote feature in **VS Code.**
 1. Open the **command palette** using  **Shift+Ctrl+P**
 1. In the command palette search for **AzureML - remote: Connect to compute instance in New Window**.
 1. Follow the on-screen instructions to connect to the Compute. This will involve selecting your Azure Subscription, Resource Group, Project and Compute name you set up in Lab 1.
-1. Once your connected to your Azure ML Compute node this will be displayed in the bottom right `><Azure ML: Compute Name`
-
+1. Once your connected to your Azure ML Compute node this will be displayed in the **bottom left of Visual Code** `><Azure ML: Compute Name`
+**
 ### Step 1: Clone this repo
 
 In VS Code, you can open a new terminal with **Ctrl+J** and clone this repo:
