@@ -42,7 +42,7 @@ This repository is divided in to the following sections:
 
 ## Slides
 
-The [slides](https://aka.ms/...) have presenter notes in each part of the session
+The [slides](./PRE016-Ignite2024.pdf) have presenter notes in each part of the session
 
 ### Timing
 
