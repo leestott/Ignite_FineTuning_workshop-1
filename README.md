@@ -111,7 +111,7 @@ Abstract: Join us for an exclusive workshop on fine-tuning pre-trained language 
 ### Duration
 4 hours
 
-### [Slide Deck](https://..)
+### [Slide Deck](./session-delivery-resources/PRE016-Ignite2024.pdf)
 
 ## Learning Outcomes
 * Understand how to fine tune Language Models
