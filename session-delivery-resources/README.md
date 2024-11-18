@@ -29,14 +29,14 @@ By the end of this session, participants will have developed a robust travel app
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](https://aka.ms/..) | Slides |
+| PowerPoint        | - [Presentation](./PRE016-Ignite2024.pdf) | Slides |
 <!-- | PPT Recording     | - [Presentation]() | Video Recording of the PowerPoint slides with no audio | -->
 
 ## Get Started
 
 This repository is divided in to the following sections:
 
-| [Slides](https://aka.ms/..) | [Skillable Workshop Instructions](/lab/Skillable%20Workshop%20Instructions/00_Introduction.md) | [Non-Skillable Workshop Instructions](/lab/README.md) |
+| [Slides](./PRE016-Ignite2024.pdf) | [Skillable Workshop Instructions](/lab/Skillable%20Workshop%20Instructions/00_Introduction.md) | [Non-Skillable Workshop Instructions](/lab/README.md) |
 |-------------------|---------------------------|--------------------------------------
 | ** slides - 4 Hours minutes| 10 Labs - 180 minutes | Running the workshop outside Skillable |
 
