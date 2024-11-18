@@ -12,7 +12,7 @@ You start by creating an Azure AI project within an Azure AI hub:
 
 # Create your Cloud Compute Resources for Cloud based inference
 
-1. Under **Shared resources**, **Compute Instances**, select **Create Compute**.
+1. Under **Hub Name** left hand navigation bar, select **Compute**, select **Create Compute**.
 
   ![Create Azure AI Compute](./images/compute-create.png)
 
