@@ -3,6 +3,8 @@
 
 # Unlocking NLP Potential: Fine-Tuning with Microsoft Olive PRE016
 
+[Slide Deck](./session-delivery-resources/PRE016-Ignite2024.pdf)
+
 ## Fine-Tuning Workshop
 
 This repository is for the Ignite 2024 PreDay Workshop on Fine Tuning Large Language Models
